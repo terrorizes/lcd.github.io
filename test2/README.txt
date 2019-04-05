@@ -15,7 +15,7 @@ MDB-Wordpress: https://mdbootstrap.com/education/wordpress/
 Templates:
 https://mdbootstrap.com/templates/
 
-License:
+Licensre
 https://mdbootstrap.com/general/license/
 
 Support:
