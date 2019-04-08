@@ -5,3 +5,15 @@ body{
     padding: 0;
 
 }
+
+.jumbotron{
+    background-color: #008000; 
+    color: #ffffff;
+    padding: 100px 25px;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+
