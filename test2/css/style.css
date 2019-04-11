@@ -41,6 +41,7 @@ body{
   background-color:#008000;
   border: 0;
   box-shadow: none;
+  height: 45px !important;
 }
 
 .navbar .navbar-collapse {

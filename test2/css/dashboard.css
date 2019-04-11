@@ -90,5 +90,8 @@
  
   .navbar{
     background-color:#008000;
+    height: 45px !important;
+    border: 0;
+    box-shadow: none;
 }
 
